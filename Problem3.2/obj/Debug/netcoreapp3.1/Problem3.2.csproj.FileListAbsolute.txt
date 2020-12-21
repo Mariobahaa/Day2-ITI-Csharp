@@ -1,0 +1,13 @@
+E:\My Programs\ITIC#\Day2\Problem3.2\bin\Debug\netcoreapp3.1\Problem3.2.exe
+E:\My Programs\ITIC#\Day2\Problem3.2\bin\Debug\netcoreapp3.1\Problem3.2.deps.json
+E:\My Programs\ITIC#\Day2\Problem3.2\bin\Debug\netcoreapp3.1\Problem3.2.runtimeconfig.json
+E:\My Programs\ITIC#\Day2\Problem3.2\bin\Debug\netcoreapp3.1\Problem3.2.runtimeconfig.dev.json
+E:\My Programs\ITIC#\Day2\Problem3.2\bin\Debug\netcoreapp3.1\Problem3.2.dll
+E:\My Programs\ITIC#\Day2\Problem3.2\bin\Debug\netcoreapp3.1\Problem3.2.pdb
+E:\My Programs\ITIC#\Day2\Problem3.2\obj\Debug\netcoreapp3.1\Problem3.2.csprojAssemblyReference.cache
+E:\My Programs\ITIC#\Day2\Problem3.2\obj\Debug\netcoreapp3.1\Problem3.2.AssemblyInfoInputs.cache
+E:\My Programs\ITIC#\Day2\Problem3.2\obj\Debug\netcoreapp3.1\Problem3.2.AssemblyInfo.cs
+E:\My Programs\ITIC#\Day2\Problem3.2\obj\Debug\netcoreapp3.1\Problem3.2.csproj.CoreCompileInputs.cache
+E:\My Programs\ITIC#\Day2\Problem3.2\obj\Debug\netcoreapp3.1\Problem3.2.dll
+E:\My Programs\ITIC#\Day2\Problem3.2\obj\Debug\netcoreapp3.1\Problem3.2.pdb
+E:\My Programs\ITIC#\Day2\Problem3.2\obj\Debug\netcoreapp3.1\Problem3.2.genruntimeconfig.cache
